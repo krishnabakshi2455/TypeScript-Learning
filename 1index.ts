@@ -32,6 +32,8 @@ let obj11:{krishna:number[][]}={krishna:[[635132,5453365],[436535,4653]]}
 console.log(obj11);
 
 
+let krishna:string='krishna230'
+console.log(krishna);
 
 
 let str56: string = 'krishna bakshi'

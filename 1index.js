@@ -22,6 +22,8 @@ let obj1 = { krishna: [65313, 6534132, 654312] };
 console.log(obj1);
 let obj11 = { krishna: [[635132, 5453365], [436535, 4653]] };
 console.log(obj11);
+let krishna = 'krishna230';
+console.log(krishna);
 let str56 = 'krishna bakshi';
 console.log(str56);
 let novalue = 50;
