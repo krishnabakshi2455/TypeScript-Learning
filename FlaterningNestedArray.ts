@@ -4,4 +4,4 @@ function FlaterningNestedArray(params: number[][]) {
     })
     return flaterned
 }
-console.log(FlaterningNestedArray([[123],[35132]]));
+console.log(FlaterningNestedArray([[123],[35132],[12353,1635323]]));
